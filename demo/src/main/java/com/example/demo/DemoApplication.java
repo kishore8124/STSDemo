@@ -11,6 +11,7 @@ public class DemoApplication {
 		ConfigurableApplicationContext run = SpringApplication.run(DemoApplication.class, args);
 		System.out.println("Branch 2 2");
 		System.out.println("Master");
+		System.out.println("Branch 1");
 	}
 
 }
